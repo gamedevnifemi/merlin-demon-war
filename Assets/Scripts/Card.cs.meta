@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1878d983cb1db82499a53e5f7bf2f1c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cardData: {instanceID: 0}
+  - titleText: {instanceID: 0}
+  - descriptionText: {instanceID: 0}
+  - damageImage: {instanceID: 0}
+  - costImage: {instanceID: 0}
+  - cardImage: {instanceID: 0}
+  - frameImage: {instanceID: 0}
+  - burnImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
